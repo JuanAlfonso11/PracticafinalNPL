@@ -1,0 +1,12 @@
+# Ignorar todo
+*
+
+# Permitir archivos .ipynb
+!*.ipynb
+
+# Permitir carpeta archive y su contenido
+!archive/
+!archive/**
+
+# Permitir el propio .gitignore
+!.gitignore
